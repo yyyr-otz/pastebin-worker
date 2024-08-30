@@ -24,7 +24,7 @@ id = "65268f9083ad41e896df7e1b8cd8fe1e"  # id of your KV namespace
 
 [vars]
 # must be consistent with your routes
-BASE_URL = "https://xn--lbr3ii29c.xn--4gqz72a4nrtny.us.kg"
+BASE_URL = "https://xn--lbr3ii29c.xn--4gqz72a4nrtny.us.kg/yyyr/"
 
 # url to repo, displayed in the index page
 REPO = "https://github.com/yyyr-otz/pastebin-worker"
@@ -36,7 +36,7 @@ FAVICON = "https://sharzy.in/favicon-32x32.png"
 TOS_MAINTAINER = "yyy-otzr"
 
 # the email displayed in TOS
-TOS_MAIL = "pbxn--lbr3ii29c.xn--4gqz72a4nrtny.us.kg@"
+TOS_MAIL = "pb@xn--lbr3ii29c.xn--4gqz72a4nrtny.us.kg"
 
 # Cache-Control max-age for static pages
 CACHE_STATIC_PAGE_AGE = 7200
