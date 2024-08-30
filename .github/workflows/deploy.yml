@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - goshujin
+  workflow_dispatch:
 
 jobs:
   deploy:
