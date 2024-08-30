@@ -33,7 +33,7 @@ REPO = "https://github.com/yyyr-otz/pastebin-worker"
 FAVICON = "https://sharzy.in/favicon-32x32.png"
 
 # the name displayed in TOS
-TOS_MAINTAINER = "yyyr"
+TOS_MAINTAINER = "yyy-otzr"
 
 # the email displayed in TOS
 TOS_MAIL = "pbxn--lbr3ii29c.xn--4gqz72a4nrtny.us.kg@"
